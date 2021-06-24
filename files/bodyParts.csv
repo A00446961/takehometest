@@ -1,0 +1,27 @@
+Body Part Affected,Code
+"Arm, lower (not including elbow or wrist)",33
+"Arm, upper",80
+Ankle,37
+Ear,94
+Elbow,32
+Eyeball,77
+"Face (including eyelid, eye area and nose)",76
+Finger,92
+Foot,83
+Hand,82
+Head,75
+Internal (use with aspiration and ingestion),0
+Knee,35
+"Leg, lower (not including knee or ankle)",36
+"Leg, upper",81
+"Mouth (including lips, tongue and teeth)",88
+Neck,89
+Pubic region,38
+"Shoulder (including clavicle, collarbone)",30
+Toe,93
+"Trunk, lower",79
+"Trunk, upper (not including shoulders)",31
+Wrist,34
+25-50% of body,84
+All parts of body (more than 50% of body),85
+Not recorded,87
